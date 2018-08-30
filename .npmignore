@@ -22,7 +22,7 @@ coverage
 # node-waf configuration
 .lock-wscript
 
-build/
+# build/
 node_modules
 .idea
 _book
